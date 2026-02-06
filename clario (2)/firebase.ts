@@ -4,13 +4,13 @@ import 'firebase/compat/firestore';
 
 // Configuration for the backend database
 const firebaseConfig = {
-   apiKey: "AIzaSyAfKX0DM_r-afbWlw4awJfLW8UXJREX9VM",
-  authDomain: "my-clario-app.firebaseapp.com",
-  projectId: "my-clario-app",
-  storageBucket: "my-clario-app.firebasestorage.app",
-  messagingSenderId: "87049644349",
-  appId: "1:87049644349:web:1f363288df84fbce2a7d54",
-  measurementId: "G-T7SD3733V0"
+   apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
